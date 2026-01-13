@@ -1,4 +1,4 @@
-# Proyecto SQL — Arbolado Madrid (EDA + Modelo Relacional)
+# Proyecto SQL — Arbolado Madrid
 
 ## 1. Objetivo del proyecto
 El objetivo es diseñar e implementar una base de datos relacional a partir de un dataset de arbolado urbano de Madrid.
